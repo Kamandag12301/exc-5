@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "353040562836",
+    "firebase_url": "https://minecraftmobs-d6724-default-rtdb.firebaseio.com",
+    "project_id": "minecraftmobs-d6724",
+    "storage_bucket": "minecraftmobs-d6724.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353040562836:android:a6f2e2af3af850946fd281",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353040562836-dg81cb8uf7g4efe2udn2eejv61lsj8tq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwIWPT491RGKy9cV1KW86P_GoqN0-d00E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353040562836-dg81cb8uf7g4efe2udn2eejv61lsj8tq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
